@@ -1,7 +1,5 @@
 export getdigits, touppercase, firstnorm, secondnorm, infnorm, isleap, chesscolor
 
-export getdigits, touppercase, firstnorm, secondnorm, infnorm, isleap, chesscolor
-
 function getdigits(a)
     num=a;
     v = [];
